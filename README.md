@@ -67,7 +67,7 @@ There are various tools available for writing Markdown, including:
 - **Online Tools**: Websites like StackEdit or MarkdownLive offer web-based Markdown editing with instant previews.
 - **Command Line**: Use terminal-based editors like Vim or Emacs that have Markdown support through plugins.
 
----
+
 
 ## 2. Basic Syntax
 
@@ -217,7 +217,7 @@ def hello():
 Create horizontal rules using three hyphens, asterisks, or underscores.
 
 ```markdown
----
+
 ```
 
 **Example:**
@@ -227,7 +227,7 @@ Create horizontal rules using three hyphens, asterisks, or underscores.
 ### Section 1
 ```
 
----
+
 
 ## 3. Advanced Syntax
 
@@ -321,7 +321,7 @@ CSS
 : Cascading Style Sheets
 ```
 
----
+
 
 ## 4. Creating Documentation
 
@@ -383,7 +383,6 @@ CommonMark is a standardized version of Markdown aimed at making the language co
 
 Markdown Extra is an extension of Markdown that adds additional features such as tables, footnotes, and special attributes.
 
----
 
 ## 6. Converting Markdown
 
@@ -417,7 +416,7 @@ pandoc myfile.md -o output.pdf
 
 Markdown is a powerful tool for creating formatted documents in a simple and effective manner. Whether you're writing documentation, creating web content, or maintaining notes, mastering Markdown can significantly enhance your productivity.
 
----
+
 
 ## 8. Appendix
 
